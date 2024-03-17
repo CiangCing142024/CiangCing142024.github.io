@@ -1,4 +1,5 @@
 https://ciangcing142024.github.io/Emblem_of_the_PCP-Shining_Path.svg.ico
+https://ciangcing142024.github.io/Fast Pure Raw Links.txt
 https://ciangcing142024.github.io/files/2024-02-14 国际共产主义者同盟关于列宁同志的论述 谷歌机器翻译中文（部分人工校对）.docx
 https://ciangcing142024.github.io/files/2024-02-14 国际共产主义者同盟关于列宁同志的论述 谷歌机器翻译中文（部分人工校对）.pdf
 https://ciangcing142024.github.io/files/2024-02-14 国际共产主义者同盟关于列宁同志的论述（英文）.docx
@@ -18086,4 +18087,5 @@ https://ciangcing142024.github.io/pages/GFDL-logo-small.png
 https://ciangcing142024.github.io/pages/index.htm
 https://ciangcing142024.github.io/README.md
 https://ciangcing142024.github.io/robots.txt
+https://ciangcing142024.github.io/sitemap.xml
 https://ciangcing142024.github.io/Title.png
